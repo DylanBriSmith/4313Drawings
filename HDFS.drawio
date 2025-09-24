@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="KrD1nGRz9nBzj0eb4IKm">
-    <mxGraphModel dx="2931" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3412" dy="2323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
             <mxPoint x="50" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-9" value="HeartBeat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-4">
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-9" value="HeartBeat + BlockReport" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-4">
           <mxGeometry x="-0.0146" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -208,7 +208,7 @@
             <mxPoint x="-60" y="970" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-8" value="HeartBeat" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-5">
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-8" value="HeartBeat + Block Report" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-5">
           <mxGeometry x="-0.0083" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -219,7 +219,7 @@
             <mxPoint x="130" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-7" value="HeartBeat&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-6">
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-7" value="HeartBeat + BlockReport&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-6">
           <mxGeometry x="-0.001" y="2" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
