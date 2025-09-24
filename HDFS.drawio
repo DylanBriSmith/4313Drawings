@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="KrD1nGRz9nBzj0eb4IKm">
-    <mxGraphModel dx="2931" dy="2094" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3412" dy="2323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,6 +235,39 @@
         </mxCell>
         <mxCell id="h_s1Iq67YSlkJ2WF-TGh-12" value="RPC&#39;s, NameNode never messages first" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-11">
           <mxGeometry x="0.0115" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.521;exitY=0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.526;entryY=0.982;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="y0q_RYzRmAZZay-ZsxTT-1" target="y0q_RYzRmAZZay-ZsxTT-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="470" as="sourcePoint" />
+            <mxPoint x="20" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-14" value="Replication Instructions&lt;div&gt;&amp;amp; Copmmands&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-13">
+          <mxGeometry x="-0.3876" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.341;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.711;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="y0q_RYzRmAZZay-ZsxTT-1" target="y0q_RYzRmAZZay-ZsxTT-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="390" as="sourcePoint" />
+            <mxPoint x="-60" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-16" value="Replication Instruction&lt;div&gt;&amp;amp; Commands&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-15">
+          <mxGeometry x="-0.4282" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=0.894;exitY=0.01;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="y0q_RYzRmAZZay-ZsxTT-1" target="y0q_RYzRmAZZay-ZsxTT-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-110" y="390" as="sourcePoint" />
+            <mxPoint x="-60" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-18" value="Replication Instructions &amp;amp; Commands" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="h_s1Iq67YSlkJ2WF-TGh-17">
+          <mxGeometry x="-0.3865" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
