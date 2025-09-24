@@ -224,8 +224,8 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ToDo&lt;/h1&gt;&lt;p&gt;Seperate the Nodes into Racks as the NameNode is rack aware.&lt;/p&gt;&lt;p&gt;Also somehow tie in data replication factor&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="760" y="80" width="180" height="120" as="geometry" />
+        <mxCell id="h_s1Iq67YSlkJ2WF-TGh-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;ToDo&lt;/h1&gt;&lt;p&gt;Seperate the Nodes into Racks as the NameNode is rack aware.&lt;/p&gt;&lt;p&gt;Also somehow tie in data replication factor&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;Maybe also make the blocks look more indepth&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="80" width="180" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
