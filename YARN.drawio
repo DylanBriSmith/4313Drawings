@@ -14,7 +14,7 @@
           <mxGeometry x="260" y="380" width="300" height="240" as="geometry" />
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-5" value="NameNode" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;gradientColor=light-dark(#000000,#545454);" vertex="1" parent="1">
-          <mxGeometry x="350" y="550" width="120" height="40" as="geometry" />
+          <mxGeometry x="425" y="570" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-6" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="QOSWHmzuld3M1vxe0juh-5">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
