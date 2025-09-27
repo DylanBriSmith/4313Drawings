@@ -30,36 +30,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-10" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;WorkerNode&lt;/font&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;strokeColor=default;whiteSpace=wrap;rounded=1;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="680" y="130" width="260" height="170" as="geometry" />
+          <mxGeometry x="680" y="50" width="260" height="210" as="geometry" />
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-11" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;WorkerNode&lt;/font&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;strokeColor=default;whiteSpace=wrap;rounded=1;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="680" y="690" width="270" height="180" as="geometry" />
+          <mxGeometry x="680" y="810" width="270" height="220" as="geometry" />
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-12" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;WorkerNode&lt;/font&gt;" style="verticalAlign=top;align=center;overflow=fill;html=1;strokeColor=default;whiteSpace=wrap;rounded=1;gradientColor=default;" vertex="1" parent="1">
-          <mxGeometry x="680" y="415" width="260" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="QOSWHmzuld3M1vxe0juh-13" value="DataNode" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;gradientColor=light-dark(#000000,#545454);" vertex="1" parent="1">
-          <mxGeometry x="760" y="820" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QOSWHmzuld3M1vxe0juh-14" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="QOSWHmzuld3M1vxe0juh-13">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
+          <mxGeometry x="680" y="415" width="260" height="205" as="geometry" />
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-15" value="DataNode" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;gradientColor=light-dark(#000000,#545454);" vertex="1" parent="1">
-          <mxGeometry x="750" y="540" width="120" height="40" as="geometry" />
+          <mxGeometry x="830" y="570" width="95" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-16" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="QOSWHmzuld3M1vxe0juh-15">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QOSWHmzuld3M1vxe0juh-17" value="DataNode" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;gradientColor=light-dark(#000000,#545454);" vertex="1" parent="1">
-          <mxGeometry x="755" y="250" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="QOSWHmzuld3M1vxe0juh-18" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="QOSWHmzuld3M1vxe0juh-17">
-          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
-            <mxPoint x="-27" y="7" as="offset" />
+          <mxGeometry x="1" width="11" height="20" relative="1" as="geometry">
+            <mxPoint x="-18" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;NodeManager&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
@@ -71,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-21" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;NodeManager&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="752.5" y="740" width="135" height="65" as="geometry" />
+          <mxGeometry x="752.5" y="860" width="135" height="65" as="geometry" />
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-22" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="QOSWHmzuld3M1vxe0juh-21">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -79,11 +63,27 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-23" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;NodeManager&lt;/font&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
-          <mxGeometry x="747.5" y="170" width="135" height="65" as="geometry" />
+          <mxGeometry x="745" y="100" width="135" height="65" as="geometry" />
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-24" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="QOSWHmzuld3M1vxe0juh-23">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOSWHmzuld3M1vxe0juh-25" value="DataNode" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;gradientColor=light-dark(#000000,#545454);" vertex="1" parent="1">
+          <mxGeometry x="830" y="210" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOSWHmzuld3M1vxe0juh-26" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="QOSWHmzuld3M1vxe0juh-25">
+          <mxGeometry x="1" width="11" height="20" relative="1" as="geometry">
+            <mxPoint x="-18" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOSWHmzuld3M1vxe0juh-27" value="DataNode" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;gradientColor=light-dark(#000000,#545454);" vertex="1" parent="1">
+          <mxGeometry x="845" y="980" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QOSWHmzuld3M1vxe0juh-28" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="QOSWHmzuld3M1vxe0juh-27">
+          <mxGeometry x="1" width="11" height="20" relative="1" as="geometry">
+            <mxPoint x="-18" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
