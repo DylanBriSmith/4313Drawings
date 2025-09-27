@@ -426,9 +426,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LIPZjpIcFIrhckEanFY--71" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;MAKE SURE TO ADD DECSCRIPTIONS ON THE pROTOCOLS, AND EXPAND ON DATANODE TO DATANODE DATA TRANSFER PROTOCOLS&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1520" y="310" width="180" height="480" as="geometry" />
-        </mxCell>
         <mxCell id="TKQcA_fImYY2iOjqgsNc-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="680" width="60" height="30" as="geometry" />
         </mxCell>
@@ -491,6 +488,15 @@
         </mxCell>
         <mxCell id="TKQcA_fImYY2iOjqgsNc-19" value="&lt;div&gt;Block Replication&lt;/div&gt;&lt;div&gt;From: DataNode to DataNode&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1720" y="1290" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TKQcA_fImYY2iOjqgsNc-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1470" y="460" width="480" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="TKQcA_fImYY2iOjqgsNc-22" value="&lt;b&gt;&lt;u&gt;DataNodeProtocol&lt;/u&gt;&lt;/b&gt;: Communication Protocol between NameNode and DataNode. DataNodes repeatedly send NameNode RPC&#39;s. NameNode only ever responds and never initiates.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="490" width="350" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TKQcA_fImYY2iOjqgsNc-23" value="&lt;b&gt;&lt;u&gt;NameNodeProtocol&lt;/u&gt;&lt;/b&gt;: Communication Protocol between NameNode and the ClientAPI. ClientAPI sends NameNode RPC&#39;s. NameNode only ever responds and never initiates.&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="550" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
