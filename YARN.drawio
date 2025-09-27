@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="N9ALE8jsNFKZEVBDWELp">
-    <mxGraphModel dx="1472" dy="805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1787" dy="977" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-8" value="" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" parent="1" vertex="1">
-          <mxGeometry x="300" y="410" width="220" height="160" as="geometry" />
+          <mxGeometry x="280" y="415.9" width="260" height="134.1" as="geometry" />
         </mxCell>
         <mxCell id="QOSWHmzuld3M1vxe0juh-9" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" parent="QOSWHmzuld3M1vxe0juh-8" vertex="1">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -172,6 +172,22 @@
         </mxCell>
         <mxCell id="pT3QGni-YWea2nY0N08p-1" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 16px;&quot;&gt;ResourceManager&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="415.9" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3QGni-YWea2nY0N08p-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Scheduler&lt;/span&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;arcSize=19;" vertex="1" parent="1">
+          <mxGeometry x="300" y="469.65000000000003" width="110" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3QGni-YWea2nY0N08p-3" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="pT3QGni-YWea2nY0N08p-2">
+          <mxGeometry x="1" width="20" height="10" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pT3QGni-YWea2nY0N08p-4" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;Applications&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Manager&lt;/span&gt;&lt;/div&gt;" style="html=1;dropTarget=0;whiteSpace=wrap;rounded=1;arcSize=19;" vertex="1" parent="1">
+          <mxGeometry x="415" y="469.65000000000003" width="110" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pT3QGni-YWea2nY0N08p-5" value="" style="shape=module;jettyWidth=8;jettyHeight=4;" vertex="1" parent="pT3QGni-YWea2nY0N08p-4">
+          <mxGeometry x="1" width="20" height="10" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
