@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="_PSSpsekZHAyDkxqbteC">
-    <mxGraphModel dx="1901" dy="1023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2194" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FauERkHvUmZRvfKoMwpl-1" value="Auto Repair Shop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="820" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-2" value="Project Phase 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-63" value="Deliverable 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="570" width="120" height="60" as="geometry" />
@@ -56,16 +56,28 @@
           <mxGeometry x="590" y="820" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-81" value="Deliverable 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="820" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="940" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-82" value="Management UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="680" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FauERkHvUmZRvfKoMwpl-84" value="Double check Constraints for all schemas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FauERkHvUmZRvfKoMwpl-84" value="Double check Constraints for all schemas &amp;amp; tables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="950" y="680" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-85" value="Log in security" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="830" y="750" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-86" value="Documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-87" value="All modules" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="750" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-88" value="All tables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="790" width="90" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-89" value="All UI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="830" width="90" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
