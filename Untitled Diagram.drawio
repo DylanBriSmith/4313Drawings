@@ -94,6 +94,18 @@
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-10" value="Implement UI, server, DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="450" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-12" value="Ensure functionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-13" value="Ensure functionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="570" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-14" value="Compare implementation to assumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="630" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-15" value="Develop documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="690" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
