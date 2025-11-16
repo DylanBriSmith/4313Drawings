@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="CfjS6KExH8KZqErMViK-">
-    <mxGraphModel dx="983" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="792" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,16 +115,16 @@
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-31" value="Database Schema documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="632.5" width="90" height="57.5" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-32" value="Deliver final report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-32" value="Unit tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="420" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-33" value="Ensure Stakeholder sign&#39;s off" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-33" value="Continuous integration testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="480" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-34" value="Project close-out meeting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-34" value="Functional tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="550" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-35" value="Lessons learned" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-35" value="End-to-end tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="970" y="610" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.083;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7-gWIW7kGt1C1n1ohZe_-2">
