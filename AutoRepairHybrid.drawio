@@ -83,25 +83,25 @@
           <mxGeometry x="1560" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-95" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="1240" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-96" value="Unit tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="660" width="60" height="30" as="geometry" />
+          <mxGeometry x="1260" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-97" value="Integration testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="710" width="60" height="30" as="geometry" />
+          <mxGeometry x="1260" y="710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-98" value="Functional tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="760" width="60" height="30" as="geometry" />
+          <mxGeometry x="1260" y="760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-99" value="End-To-End test" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="810" width="60" height="30" as="geometry" />
+          <mxGeometry x="1260" y="810" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-100" value="Acceptance testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="855" width="60" height="30" as="geometry" />
+          <mxGeometry x="1260" y="855" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-101" value="Performance tests" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="900" width="70" height="30" as="geometry" />
+          <mxGeometry x="1260" y="900" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
