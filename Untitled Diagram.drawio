@@ -85,6 +85,15 @@
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-7" value="Verify outlook with Stakeholders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="510" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-8" value="Create scope of development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="630" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-9" value="Develop components" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-10" value="Implement UI, server, DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
