@@ -70,6 +70,18 @@
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-2" value="Identify Stakeholders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="450" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-3" value="Gather Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-4" value="Analyze Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-5" value="Create Schdule and task plan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-6" value="Set Budget" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="570" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
