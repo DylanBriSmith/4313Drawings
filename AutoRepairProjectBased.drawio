@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="CfjS6KExH8KZqErMViK-">
-    <mxGraphModel dx="1426" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="815" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,23 +85,23 @@
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-20" value="Parts and accessories input form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="330" y="545" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-22" value="Develop components" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="420" width="80" height="40" as="geometry" />
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-22" value="Schema for Parts &amp;amp; Accessories" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="415" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-23" value="Implement UI, server, DB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-23" value="Schema for Cars &amp;amp; Owner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="480" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-24" value="Ensure functionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="540" width="80" height="40" as="geometry" />
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-24" value="Join table on Parts &amp;amp; Accessories on Car&#39;s" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="535" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-25" value="Ensure functionality" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="600" width="80" height="40" as="geometry" />
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-25" value="Schema for Employees" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="610" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-26" value="Compare implementation to assumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="660" width="80" height="50" as="geometry" />
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-26" value="Schema for Assembly Services" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="670" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-27" value="Develop documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="730" width="80" height="40" as="geometry" />
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-27" value="Constraints for all schemas &amp;amp; tables" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="740" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-28" value="Ensure scope is kept tight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="420" width="80" height="40" as="geometry" />
@@ -141,7 +141,7 @@
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-38" value="" style="endArrow=none;html=1;rounded=0;entryX=0.083;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="750" as="sourcePoint" />
+            <mxPoint x="630" y="770" as="sourcePoint" />
             <mxPoint x="630" y="391" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -207,26 +207,26 @@
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-49" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="490" as="sourcePoint" />
-            <mxPoint x="650" y="490" as="targetPoint" />
+            <mxPoint x="630" y="499.86" as="sourcePoint" />
+            <mxPoint x="650" y="499.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-50" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="560" as="sourcePoint" />
-            <mxPoint x="650" y="560" as="targetPoint" />
+            <mxPoint x="630" y="564.86" as="sourcePoint" />
+            <mxPoint x="650" y="564.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-51" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="620" as="sourcePoint" />
-            <mxPoint x="650" y="620" as="targetPoint" />
+            <mxPoint x="630" y="629.86" as="sourcePoint" />
+            <mxPoint x="650" y="629.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-52" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="690" as="sourcePoint" />
-            <mxPoint x="650" y="690" as="targetPoint" />
+            <mxPoint x="630" y="694.86" as="sourcePoint" />
+            <mxPoint x="650" y="694.86" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-53" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -237,8 +237,8 @@
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-54" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="630" y="750" as="sourcePoint" />
-            <mxPoint x="650" y="750" as="targetPoint" />
+            <mxPoint x="630" y="769.72" as="sourcePoint" />
+            <mxPoint x="650" y="769.72" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-55" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
