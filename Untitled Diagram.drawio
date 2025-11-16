@@ -124,6 +124,12 @@
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-21" value="Ensure Stakeholder sign&#39;s off" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="450" width="80" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-22" value="Project close-out meeting" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-23" value="Lessons learned" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="580" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
