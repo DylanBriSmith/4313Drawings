@@ -64,11 +64,11 @@
             <mxPoint x="999.66" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-14" value="Define Project Goals" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="420" width="80" height="40" as="geometry" />
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-14" value="Assembly Service UI form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="415" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-15" value="Identify Stakeholders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="480" width="80" height="40" as="geometry" />
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-15" value="Parts and accessories view" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="480" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-16" value="Gather Requirements" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="80" height="40" as="geometry" />
@@ -82,8 +82,8 @@
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-19" value="Set Budget" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="600" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7-gWIW7kGt1C1n1ohZe_-20" value="Verify outlook with Stakeholders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="540" width="80" height="50" as="geometry" />
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-20" value="Parts and accessories input form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="545" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-21" value="Create scope of development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="660" width="80" height="50" as="geometry" />
@@ -132,7 +132,7 @@
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-36" value="" style="endArrow=none;html=1;rounded=0;entryX=0.083;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7-gWIW7kGt1C1n1ohZe_-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="570" as="sourcePoint" />
+            <mxPoint x="310" y="680" as="sourcePoint" />
             <mxPoint x="310" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -294,6 +294,24 @@
         </mxCell>
         <mxCell id="7-gWIW7kGt1C1n1ohZe_-63" value="Project based WBS" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="160" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-64" value="Car list view&lt;div&gt;&amp;amp; input form&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="610" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-65" value="Owner View&lt;div&gt;&amp;amp; input form&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-66" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="624.86" as="sourcePoint" />
+            <mxPoint x="330" y="624.86" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7-gWIW7kGt1C1n1ohZe_-67" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="674.86" as="sourcePoint" />
+            <mxPoint x="330" y="674.86" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
