@@ -83,10 +83,10 @@
           <mxGeometry x="260" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-7" value="Verify outlook with Stakeholders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="510" width="80" height="40" as="geometry" />
+          <mxGeometry x="100" y="510" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-8" value="Create scope of development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="630" width="80" height="40" as="geometry" />
+          <mxGeometry x="260" y="630" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-9" value="Develop components" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="390" width="80" height="40" as="geometry" />
@@ -101,16 +101,22 @@
           <mxGeometry x="420" y="570" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-14" value="Compare implementation to assumption" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="630" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="630" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-15" value="Develop documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="690" width="80" height="40" as="geometry" />
+          <mxGeometry x="420" y="700" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-16" value="Ensure scope is kept tight" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="390" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-17" value="Continuously track progress" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="450" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-18" value="Implement change management process" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="510" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KFM6ozPjMeTfkDVQ3Cuw-19" value="Perform quality inspection" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="590" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
