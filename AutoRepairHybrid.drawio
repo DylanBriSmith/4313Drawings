@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="_PSSpsekZHAyDkxqbteC">
-    <mxGraphModel dx="1141" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1097" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-63" value="Deliverable 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-64" value="Employee list UI + entry form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="680" width="100" height="50" as="geometry" />
@@ -85,8 +85,14 @@
         <mxCell id="FauERkHvUmZRvfKoMwpl-69" value="Implement Cars + Owners Module + functions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="820" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FauERkHvUmZRvfKoMwpl-70" value="Respective Documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="680" width="110" height="50" as="geometry" />
+        <mxCell id="FauERkHvUmZRvfKoMwpl-72" value="Deliverable 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-73" value="Employee list UI + entry form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="680" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-74" value="Cars &amp;amp; Owners list UI + entry form" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="680" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
