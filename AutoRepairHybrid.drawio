@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.0.3">
   <diagram name="Page-1" id="_PSSpsekZHAyDkxqbteC">
-    <mxGraphModel dx="1501" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="959" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,6 +53,12 @@
         <mxCell id="FauERkHvUmZRvfKoMwpl-2" value="Project Phase 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="450" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="FauERkHvUmZRvfKoMwpl-63" target="FauERkHvUmZRvfKoMwpl-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="FauERkHvUmZRvfKoMwpl-63" target="FauERkHvUmZRvfKoMwpl-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-63" value="Deliverable 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="570" width="120" height="60" as="geometry" />
         </mxCell>
@@ -73,6 +79,12 @@
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-69" value="Implement Cars + Owners Module + functions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="820" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="FauERkHvUmZRvfKoMwpl-72" target="FauERkHvUmZRvfKoMwpl-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="FauERkHvUmZRvfKoMwpl-72" target="FauERkHvUmZRvfKoMwpl-74">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-72" value="Deliverable 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="570" width="120" height="60" as="geometry" />
@@ -97,6 +109,25 @@
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-79" value="Implement Assembly Service module + functions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="820" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-126" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="FauERkHvUmZRvfKoMwpl-81" target="FauERkHvUmZRvfKoMwpl-82">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="660" />
+              <mxPoint x="800" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="FauERkHvUmZRvfKoMwpl-81" target="FauERkHvUmZRvfKoMwpl-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FauERkHvUmZRvfKoMwpl-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="FauERkHvUmZRvfKoMwpl-81" target="FauERkHvUmZRvfKoMwpl-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="660" />
+              <mxPoint x="1080" y="660" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="FauERkHvUmZRvfKoMwpl-81" value="Deliverable 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="570" width="120" height="60" as="geometry" />
