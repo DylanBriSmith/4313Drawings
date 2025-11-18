@@ -372,8 +372,8 @@
             <mxPoint x="850" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W5NDTYZE5uVt-uoSeAz_-55" value="Can also start at&amp;nbsp;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="1410" width="60" height="30" as="geometry" />
+        <mxCell id="W5NDTYZE5uVt-uoSeAz_-55" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 51, 51));&quot;&gt;Can also start at 4 days&amp;nbsp;&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1410" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
