@@ -239,9 +239,7 @@
         </mxCell>
         <mxCell id="W5NDTYZE5uVt-uoSeAz_-26" edge="1" parent="1" source="W5NDTYZE5uVt-uoSeAz_-9" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.273;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" target="W5NDTYZE5uVt-uoSeAz_-23" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <Array as="points">
-              <mxPoint x="730" y="1190" />
-            </Array>
+            <Array as="points" />
             <mxPoint x="720" y="1190" as="sourcePoint" />
             <mxPoint x="770" y="1140" as="targetPoint" />
           </mxGeometry>
